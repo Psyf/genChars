@@ -1,0 +1,3 @@
+[console_scripts]
+genChars = genChars.__main__:main
+

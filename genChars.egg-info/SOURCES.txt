@@ -1,0 +1,9 @@
+README.md
+genChars/__init__.py
+genChars/__main__.py
+genChars.egg-info/PKG-INFO
+genChars.egg-info/SOURCES.txt
+genChars.egg-info/dependency_links.txt
+genChars.egg-info/entry_points.txt
+genChars.egg-info/requires.txt
+genChars.egg-info/top_level.txt
